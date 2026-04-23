@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <name>git_hub</name>
+        <label>Git Hub</label>
+        <plural_label>Git Hub</plural_label>
+        <super_class/>
+        <extends_table/>
+        <create_access>true</create_access>
+        <delete_access>true</delete_access>
+        <read_access>true</read_access>
+        <write_access>true</write_access>
+        <is_extendable>false</is_extendable>
+        <numbering_active>true</numbering_active>
+        <number_prefix>GIT</number_prefix>
+        <numbering_method>Autonumber</numbering_method>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>akshaybhopale</sys_created_by>
+        <sys_created_on>2026-04-23 17:10:00</sys_created_on>
+        <sys_id>git_hub_table_id</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>git_hub</sys_name>
+        <sys_package display_value="ServiceNow Git" source="x_snc_git">git_hub_package_id</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Git">git_hub_package_id</sys_scope>
+        <sys_update_name>sys_db_object_git_hub</sys_update_name>
+        <sys_updated_by>akshaybhopale</sys_updated_by>
+        <sys_updated_on>2026-04-23 17:10:00</sys_updated_on>
+        <access>public</access>
+        <alter_access>true</alter_access>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access_controls>true</delete_access_controls>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Git Hub</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>git_hub</name>
+        <numbering_active>true</numbering_active>
+        <number_prefix>GIT</number_prefix>
+        <provider_class/>
+        <read_access_controls>true</read_access_controls>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>akshaybhopale</sys_created_by>
+        <sys_created_on>2026-04-23 17:10:00</sys_created_on>
+        <sys_id>git_hub_table_id</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>git_hub</sys_name>
+        <sys_package display_value="ServiceNow Git" source="x_snc_git">git_hub_package_id</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ServiceNow Git">git_hub_package_id</sys_scope>
+        <sys_update_name>sys_db_object_git_hub</sys_update_name>
+        <sys_updated_by>akshaybhopale</sys_updated_by>
+        <sys_updated_on>2026-04-23 17:10:00</sys_updated_on>
+        <update_access>true</update_access>
+        <user_interface/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
