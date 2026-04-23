@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 11:51:02</sys_created_on>
+        <sys_id>a783d36bc3d4871049a5b2ddd4013175</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_75783_demo_git_0_git_hub_data.x_75783_demo_git_0.git_admin</sys_name>
+        <sys_package display_value="Demo GitHub" source="x_75783_demo_git_0">7ec3cf63c354871049a5b2ddd40131cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo GitHub">7ec3cf63c354871049a5b2ddd40131cd</sys_scope>
+        <sys_security_acl display_value="x_75783_demo_git_0_git_hub_data">6783d36bc3d4871049a5b2ddd4013150</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a783d36bc3d4871049a5b2ddd4013175</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 11:51:02</sys_updated_on>
+        <sys_user_role display_value="x_75783_demo_git_0.git_admin" name="x_75783_demo_git_0.git_admin">7ac303a3c354871049a5b2ddd4013104</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
