@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="DELETE">
+        <order>1000</order>
+        <role display_value="x_75783_demo_git_0.git_user" name="x_75783_demo_git_0.git_user">76c303a3c354871049a5b2ddd401311a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 10:42:10</sys_created_on>
+        <sys_id>8bc303a3c354871049a5b2ddd401311c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>76c303a3c354871049a5b2ddd401311a</sys_name>
+        <sys_package display_value="Demo GitHub" source="x_75783_demo_git_0">7ec3cf63c354871049a5b2ddd40131cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo GitHub">7ec3cf63c354871049a5b2ddd40131cd</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8bc303a3c354871049a5b2ddd401311c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 10:42:10</sys_updated_on>
+    </sys_embedded_help_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo GitHub">7ec3cf63c354871049a5b2ddd40131cd</application>
+        <file_path/>
+        <instance_id>e9d8a2d71bb5f5501024eb9b2d4bcb99</instance_id>
+        <instance_name>dev187094</instance_name>
+        <name>sys_embedded_help_role_8bc303a3c354871049a5b2ddd401311c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role"><sys_embedded_help_role action="INSERT_OR_UPDATE"><order>1000</order><role display_value="x_75783_demo_git_0.git_user" name="x_75783_demo_git_0.git_user">76c303a3c354871049a5b2ddd401311a</role><sys_class_name>sys_embedded_help_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-23 10:42:10</sys_created_on><sys_id>8bc303a3c354871049a5b2ddd401311c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>76c303a3c354871049a5b2ddd401311a</sys_name><sys_package display_value="Demo GitHub" source="x_75783_demo_git_0">7ec3cf63c354871049a5b2ddd40131cd</sys_package><sys_policy/><sys_scope display_value="Demo GitHub">7ec3cf63c354871049a5b2ddd40131cd</sys_scope><sys_update_name>sys_embedded_help_role_8bc303a3c354871049a5b2ddd401311c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-23 10:42:10</sys_updated_on></sys_embedded_help_role></record_update>]]></payload>
+        <payload_hash>1452882005</payload_hash>
+        <record_name>76c303a3c354871049a5b2ddd401311a</record_name>
+        <reverted_from/>
+        <source>3bbd7820c332321049a5b2ddd401316a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2026-01-29 03:40:32</sys_created_on>
+        <sys_id>34002babc358871049a5b2ddd4013124</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19c07d69f800000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Embedded Help Role Priority</type>
+        <update_guid>f0002bab84588710e0cb7dec8ec7dc24</update_guid>
+        <update_guid_history>f0002bab84588710e0cb7dec8ec7dc24:1452882005</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-23 12:45:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_embedded_help_role">sys_embedded_help_role</sys_db_object>
+        <sys_id>46d9008f90634ef09a18fef60cb0ea40</sys_id>
+        <sys_metadata>8bc303a3c354871049a5b2ddd401311c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>76c303a3c354871049a5b2ddd401311a</sys_name>
+        <sys_package display_value="Demo GitHub" source="x_75783_demo_git_0">7ec3cf63c354871049a5b2ddd40131cd</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo GitHub">7ec3cf63c354871049a5b2ddd40131cd</sys_scope>
+        <sys_scope_delete display_value="">7ebf98aa0ecb455389470d2a28f6b879</sys_scope_delete>
+        <sys_update_name>sys_embedded_help_role_8bc303a3c354871049a5b2ddd401311c</sys_update_name>
+        <sys_update_version display_value="sys_embedded_help_role_8bc303a3c354871049a5b2ddd401311c">34002babc358871049a5b2ddd4013124</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-23 12:45:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

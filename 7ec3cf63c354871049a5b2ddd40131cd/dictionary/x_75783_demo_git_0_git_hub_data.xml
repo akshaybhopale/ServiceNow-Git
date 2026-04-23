@@ -2,5 +2,9 @@
     <element db_object_id="e9839f2bc3d4871049a5b2ddd401316d" label="Git Hub Data" max_length="40" name="x_75783_demo_git_0_git_hub_data" type="collection">
         <element label="Short Description" max_length="100" name="short_description" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element choice="1" label="Action status" max_length="40" name="action_status" type="choice">
+            <choice/>
+        </element>
     </element>
 </database>
